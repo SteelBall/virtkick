@@ -6,7 +6,8 @@ Managing virtual machines or Docker containers has never been easier.
 ![VirtKick panel](https://raw.github.com/virtkick/virtkick/master/screenshot.png)
 
 1-Click Install | User Centric | E-commerce Enabled
-VirtKick provides decent default settings. Get started in five minutes - don't care about the details at the beginning! | Meet a user-centric interface that lets you achieve most common tasks blazingly fast. Create and use your virtual machine with 5 clicks in 45 seconds. | Orders, payments, invoices and helpdesk - it's all here. (Virt)kickstart your VPS hosting business without building everything from scratch.
+--- | --- | ---
+VirtKick provides decent default settings. Get started in five minutes - don't care about the details at the beginning! | Meet a user-centric interface that lets you achieve most common tasks blazingly fast. Create and use your virtual machine with 5 clicks in 45 seconds. | Orders, payments, invoices and helpdesk - it's all here. Kickstart your VPS hosting business without building everything from scratch.
 
 
 # Source, issues and docs
